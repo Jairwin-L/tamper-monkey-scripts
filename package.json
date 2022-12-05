@@ -1,0 +1,6 @@
+{
+  "name": "tamper-monkey-scripts",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.1"
+  }
+}
